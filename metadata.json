@@ -1,0 +1,6 @@
+{
+  "name": "Amthucbamien",
+  "description": "Thư viện món ăn ba miền có nguồn gốc - Đề tài E02: Tra cứu lịch sử, xuất xứ văn hóa, triết lý ẩm thực và bản đồ nguồn gốc món ngon Bắc - Trung - Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
